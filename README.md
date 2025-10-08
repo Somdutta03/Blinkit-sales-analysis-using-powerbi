@@ -1,4 +1,8 @@
 # Blinkit-sales-analysis-using-powerbi
+
+<img width="1282" height="695" alt="blinkit pbi analysis" src="https://github.com/user-attachments/assets/7072d98f-e2f4-4511-987f-dfedc1c477b6" />
+
+
 To conduct a comprehensive analysis of blinkit’s sale performance, customer satisfaction and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in powerbi
 
 # Tech Stack
@@ -26,3 +30,5 @@ To conduct a comprehensive analysis of blinkit’s sale performance, customer sa
 
 # screenshot
 https://github.com/Somdutta03/Blinkit-sales-analysis-using-powerbi/blob/main/blinkit%20pbi%20analysis.png
+
+
